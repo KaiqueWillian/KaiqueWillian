@@ -26,5 +26,7 @@ Sou Kaique, um desenvolvedor focado em construir as melhores interfaces e sempre
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will.kaique)
 
 ## 📊 Minhas Estatísticas no GitHub:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KaiqueWillian&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueWillian&layout=compact&theme=radical)
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" width="400" />
+</div>
