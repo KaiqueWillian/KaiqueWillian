@@ -28,3 +28,4 @@ Sou Kaique, um desenvolvedor focado em construir as melhores interfaces e sempre
 ## 📊 Minhas Estatísticas no GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KaiqueWillian&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueWillian&layout=compact&theme=radical)
+[![Top Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeuUsuario&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
