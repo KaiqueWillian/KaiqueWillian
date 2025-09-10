@@ -17,14 +17,6 @@ Sou Kaique, um desenvolvedor focado em construir as melhores interfaces e sempre
 ![React Google Charts](https://img.shields.io/badge/React_Google_Charts-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![React Google Maps API](https://img.shields.io/badge/React_Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-## 📚 Atualmente aprendendo:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ## 🔗 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiquewillian2306)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will.kaique)
-
-## 📊 Minhas estatísticas no GitHub:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KaiqueWillian&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueWillian&layout=compact&theme=radical)
