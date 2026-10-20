@@ -2,8 +2,8 @@
 <h3 align="center">Engenheiro de Software</h3>
 <p align="center">📍 São Paulo, Brasil</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaiquewillian2306"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  &nbsp;·&nbsp; Kaiquewillian62@gmail.com
+  <a href="https://www.linkedin.com/in/kaiquewillian2306">LinkedIn</a> ·
+  Kaiquewillian62@gmail.com
 </p>
 
 ---
