@@ -1,55 +1,57 @@
-# 👋 Olá! Seja bem-vindo(a)!
-
-Sou **Kaique Willian**, **Desenvolvedor Front-End** com mais de **3 anos de experiência**, especializado em **React.js** e no desenvolvimento de **aplicações web complexas**.
-
-Atuo na **definição de arquitetura front-end**, criação de **padrões de componentes reutilizáveis** e implementação de **fluxos avançados de interface**, sempre com foco em **performance, escalabilidade, organização de código e experiência do usuário**. Tenho experiência transformando regras e processos complexos em interfaces claras, consistentes e eficientes, integradas a APIs e dados dinâmicos.
-
----
-
-## 🛠️ Stacks / Habilidades
-
-### Core
-[![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/docs)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React Router DOM](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)](https://reactrouter.com/)
-
-### UI / Componentização
-[![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)](https://chakra-ui.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-[![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)](https://www.radix-ui.com/)
-[![Lucide React](https://img.shields.io/badge/Lucide_React-000000?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
-
-### Dados, Formulários e Estado
-[![APIs REST](https://img.shields.io/badge/APIs_REST-0B5FFF?style=for-the-badge&logo=api&logoColor=white)](https://en.wikipedia.org/wiki/REST)
-[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/docs/intro)
-[![Formik](https://img.shields.io/badge/Formik-000000?style=for-the-badge&logo=formik&logoColor=white)](https://formik.org/)
-[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)](https://react-hook-form.com/)
-[![Yup](https://img.shields.io/badge/Yup-4A90E2?style=for-the-badge&logoColor=white)](https://github.com/jquense/yup)
-[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge&logo=reacttable&logoColor=white)](https://tanstack.com/table/latest)
-
-### Visualização de Dados e Mapas
-[![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge&logoColor=white)](https://recharts.org/en-US/)
-[![Nivo](https://img.shields.io/badge/Nivo-3A7BD5?style=for-the-badge&logoColor=white)](https://nivo.rocks/)
-[![React Google Charts](https://img.shields.io/badge/React_Google_Charts-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/rakannimer/react-google-charts)
-[![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://developers.google.com/maps)
-
-### Utilitários, UX e Animações
-[![date-fns](https://img.shields.io/badge/date--fns-770C56?style=for-the-badge&logoColor=white)](https://date-fns.org/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![DND Kit](https://img.shields.io/badge/DND_Kit-000000?style=for-the-badge&logoColor=white)](https://dndkit.com/)
-[![Sonner](https://img.shields.io/badge/Sonner-000000?style=for-the-badge&logoColor=white)](https://sonner.emilkowal.ski/)
-
-### Ambiente
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linuxfoundation.org/)
+<h1 align="center">Kaique Willian Oliveira Santos</h1>
+<p align="center"><strong>Full Stack Developer · Front-end Architecture · Software Engineering</strong></p>
+<p align="center">São Paulo, Brasil</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaiquewillian2306">LinkedIn</a> ·
+  <a href="mailto:Kaiquewillian62@gmail.com">E-mail</a>
+</p>
 
 ---
 
-## 🔗 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiquewillian2306)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/will.kaique)
+### Sobre mim
+
+Sou desenvolvedor **Full Stack**, com trajetória iniciada no front-end e atuação atual no desenvolvimento de aplicações corporativas, integração de sistemas e evolução de produtos digitais.
+
+Participei da construção inicial do **Analytics Web**, plataforma B2B da Vendemmia voltada a operações logísticas e comércio exterior, com responsabilidade central na **arquitetura, estruturação e definição dos padrões do front-end**. Ao longo da evolução do produto, ampliei minha atuação para o **back-end**, desenvolvendo e mantendo APIs, regras de negócio e integrações.
+
+Valorizo código legível, responsabilidades bem definidas, componentes reutilizáveis, consistência visual e processos de desenvolvimento confiáveis. Também exploro **IA aplicada à engenharia de software** para apoiar análise de código, documentação, revisão e automações.
+
+### Tecnologias e práticas
+
+| Área | Stack e competências |
+| --- | --- |
+| **Front-end** | React, TypeScript, JavaScript, HTML, CSS, Vite, React Router, Tailwind CSS |
+| **Interfaces e arquitetura** | Componentização, Design Systems, Storybook, Radix UI, responsividade, acessibilidade, integração com APIs |
+| **Back-end** | PHP, Symfony, Doctrine ORM, MySQL, APIs REST, autenticação JWT, regras de negócio |
+| **Qualidade** | Vitest, React Testing Library, PHPUnit, ESLint, Prettier, revisão de código |
+| **Engenharia e entrega** | Git, GitHub, Pull Requests, Git Worktrees, Docker, Docker Compose, GitHub Actions, CI/CD, Jira |
+| **IA no desenvolvimento** | ChatGPT, Codex, agentes de IA, análise e revisão de código, documentação e automação de workflows |
+
+### Como trabalho
+
+- **Arquitetura e manutenção:** decisões técnicas que tornam aplicações mais consistentes, compreensíveis e sustentáveis.
+- **Desenvolvimento ponta a ponta:** evolução de interfaces, contratos de API, lógica de negócio e persistência de dados.
+- **Qualidade de entrega:** mudanças incrementais, revisão por Pull Request, testes e validações automatizadas.
+- **Melhoria contínua:** padronização de componentes, documentação técnica e integração de IA ao fluxo de desenvolvimento.
+
+### Trajetória
+
+**Vendemmia Logística Integrada** · Desenvolvedor Full Stack  
+*jan. 2025 – atual*  
+Desenvolvimento e evolução de funcionalidades front-end e back-end em uma plataforma B2B, com APIs em PHP/Symfony, integração de dados e aprimoramento de práticas de engenharia.
+
+**Vendemmia Logística Integrada** · Desenvolvedor Front-end  
+*jan. 2023 – dez. 2024*  
+Atuação central na arquitetura e construção inicial do front-end do Analytics Web, definição de padrões estruturais e visuais, desenvolvimento de interfaces e consolidação da base da aplicação.
+
+**Grandmont** · Desenvolvedor Front-end  
+*mai. 2022 – dez. 2022*  
+Desenvolvimento de interfaces e funcionalidades para aplicações web.
+
+---
+
+<p align="center">
+  <a href="https://github.com/KaiqueWillian?tab=repositories">Repositórios públicos</a> ·
+  <a href="https://www.linkedin.com/in/kaiquewillian2306">LinkedIn</a> ·
+  <a href="mailto:Kaiquewillian62@gmail.com">Contato</a>
+</p>
