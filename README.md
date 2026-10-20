@@ -1,6 +1,5 @@
 <h1 align="center">Kaique Willian Oliveira Santos</h1>
 <h3 align="center">Engenheiro de Software</h3>
-<p align="center">Arquitetura de software · Produtos digitais · Engenharia de front-end e back-end · IA aplicada ao desenvolvimento</p>
 <p align="center">📍 São Paulo, Brasil</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kaiquewillian2306">LinkedIn</a> ·
@@ -18,15 +17,13 @@ Na **Vendemmia Logística Integrada**, fui o **principal responsável pela arqui
 
 Com a evolução da plataforma, ampliei minha atuação para o back-end, passando a desenvolver e manter soluções ponta a ponta com **React, TypeScript, PHP, Symfony, Doctrine e MySQL**. Hoje também dedico parte do trabalho a arquitetura, padronização, testes, automação e **uso de inteligência artificial no ciclo de desenvolvimento**.
 
-Meu interesse está em construir software que continue sustentável depois da primeira entrega: **código claro, boas abstrações, contratos bem definidos, consistência e engenharia pragmática**.
-
 ## Minha atuação
 
 - **Arquitetura e engenharia de front-end:** organização da aplicação, componentes reutilizáveis, padrões de interface, Design System, Storybook, acessibilidade, responsividade e integração com APIs.
 - **Engenharia de back-end:** APIs REST com PHP/Symfony, regras de negócio, consultas, filtros, paginação, persistência com Doctrine ORM, MySQL, autenticação e controle de acesso.
 - **Qualidade e evolução de sistemas:** revisão e refatoração de código, prevenção de regressões, testes automatizados, convenções de projeto e documentação técnica.
 - **Ferramentas e entregas:** ambientes com Docker, versionamento e revisão via Git/GitHub, PRs, worktrees, CI/CD, GitHub Actions e acompanhamento de atividades com Jira.
-- **IA aplicada à engenharia:** uso de ChatGPT e Codex, agentes especializados, revisão assistida de código, análise de arquitetura, documentação e experimentação com workflows automatizados.
+- **IA aplicada à engenharia:** uso de agentes de IA, revisão assistida de código, análise de arquitetura, documentação e experimentação com workflows automatizados.
 
 ## Tecnologias e ferramentas
 
@@ -51,7 +48,14 @@ Abaixo estão as tecnologias com as quais trabalho ou tenho familiaridade, inclu
 
 ### Back-end, APIs e dados
 
-**PHP · Symfony · Doctrine ORM · MySQL · APIs REST · Autenticação JWT · Validação de dados · Regras de negócio · Integrações · Consultas e filtros · Paginação**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Doctrine ORM](https://img.shields.io/badge/Doctrine_ORM-FC6A31?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-3273DC?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Validação de dados · Regras de negócio · Integrações · Consultas e filtros · Paginação**
 
 ### Engenharia, ferramentas e qualidade
 
@@ -66,9 +70,7 @@ Abaixo estão as tecnologias com as quais trabalho ou tenho familiaridade, inclu
 
 ### Inteligência artificial no desenvolvimento
 
-**ChatGPT · Codex · Agentes de IA · Prompt engineering aplicado a tarefas técnicas · Code review assistido · Análise de código · Documentação · Automações e workflows**
-
-> Para mim, IA é uma ferramenta de engenharia: ajuda a investigar, padronizar e acelerar o trabalho, mas não substitui entendimento do sistema, critérios técnicos ou validação.
+**Agentes de IA · Análise e revisão de código · Documentação técnica · Automações de desenvolvimento · Workflows assistidos por IA**
 
 ## Trajetória
 
