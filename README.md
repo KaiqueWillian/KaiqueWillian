@@ -52,11 +52,9 @@ Com a evolução da plataforma, ampliei minha atuação para o back-end, passand
 ![REST API](https://img.shields.io/badge/REST_API-3273DC?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Desenvolvimento de APIs REST:** endpoints, regras de negócio, validação de dados, autenticação e autorização.
+**APIs e serviços:** endpoints REST, regras de negócio, autenticação, autorização e contratos de integração.
 
-**Persistência e consultas:** Doctrine ORM, modelagem relacional, consultas SQL, filtros, ordenação, paginação e integração com bancos de dados.
-
-**Integrações:** comunicação entre serviços e contratos de API.
+**Dados e persistência:** Doctrine ORM, modelagem relacional e MySQL.
 
 ### Engenharia, ferramentas e qualidade
 
@@ -73,7 +71,11 @@ Com a evolução da plataforma, ampliei minha atuação para o back-end, passand
 
 ### Inteligência artificial no desenvolvimento
 
-**Agentes de IA · Análise e revisão de código · Documentação técnica · Automações de desenvolvimento · Workflows assistidos por IA**
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência_Artificial-374151?style=flat-square&logo=googlegemini&logoColor=white)
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-4F46E5?style=flat-square&logo=probot&logoColor=white)
+![Automação](https://img.shields.io/badge/Automação-087E8B?style=flat-square&logo=githubactions&logoColor=white)
+
+**Análise e revisão de código · Documentação técnica · Automações de desenvolvimento · Workflows assistidos por IA**
 
 ## Trajetória
 
@@ -92,9 +94,3 @@ Responsabilidade principal pela arquitetura e estruturação inicial do front-en
 
 Desenvolvimento de interfaces e funcionalidades para aplicações web.
 
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaiquewillian2306">LinkedIn</a> ·
-  <a href="mailto:Kaiquewillian62@gmail.com">E-mail</a>
-</p>
