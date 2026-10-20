@@ -1,10 +1,9 @@
 <h1 align="center">Kaique Willian Oliveira Santos</h1>
-<h3 align="center">Engenheiro de Software Pleno</h3>
+<h3 align="center">Engenheiro de Software</h3>
 <p align="center">📍 São Paulo, Brasil</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaiquewillian2306">LinkedIn</a> ·
-  <a href="mailto:Kaiquewillian62@gmail.com">E-mail</a> ·
-  <a href="https://github.com/KaiqueWillian?tab=repositories">Repositórios</a>
+  <a href="https://www.linkedin.com/in/kaiquewillian2306"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  &nbsp;·&nbsp; Kaiquewillian62@gmail.com
 </p>
 
 ---
