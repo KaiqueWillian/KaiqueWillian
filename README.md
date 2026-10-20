@@ -1,5 +1,5 @@
 <h1 align="center">Kaique Willian Oliveira Santos</h1>
-<h3 align="center">Engenheiro de Software</h3>
+<h3 align="center">Engenheiro de Software Pleno</h3>
 <p align="center">📍 São Paulo, Brasil</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kaiquewillian2306">LinkedIn</a> ·
@@ -89,17 +89,9 @@ Responsabilidade principal pela arquitetura e estruturação inicial do front-en
 
 Desenvolvimento de interfaces e funcionalidades para aplicações web.
 
-## O que estou explorando
-
-- **Arquitetura evolutiva:** componentes canônicos, separação de responsabilidades, padrões técnicos e sustentabilidade do código.
-- **Qualidade contínua:** testes, revisão, documentação e automações integradas ao desenvolvimento.
-- **IA para engenharia de software:** agentes especializados, contexto de projeto e revisão de alterações com evidências.
-- **Experiência de produto:** interfaces consistentes e acessíveis para operações com regras de negócio complexas.
-
 ---
 
 <p align="center">
-  <strong>Vamos conversar sobre engenharia de software?</strong><br/>
   <a href="https://www.linkedin.com/in/kaiquewillian2306">LinkedIn</a> ·
   <a href="mailto:Kaiquewillian62@gmail.com">E-mail</a>
 </p>
