@@ -26,24 +26,22 @@ Com a evolução da plataforma, ampliei minha atuação para o back-end, passand
 
 ## Tecnologias e ferramentas
 
-Abaixo estão as tecnologias com as quais trabalho ou tenho familiaridade, incluindo ferramentas utilizadas na evolução dos sistemas em que atuo.
-
-### Linguagens e fundamentos
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-
 ### Front-end, interfaces e experiência
 
-**React · React Router · Vite · Next.js · Tailwind CSS · Chakra UI · Radix UI · shadcn/ui · Storybook · Design Systems · Componentização · Acessibilidade · Responsividade**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**Formulários e dados:** React Hook Form, Formik, Zod, Yup, Axios, Redux, TanStack Table.
+**Bibliotecas e interfaces:** React Router, Chakra UI, Radix UI, shadcn/ui, Storybook, Design Systems, componentização, acessibilidade e responsividade.
 
-**Interfaces ricas:** Nivo, Recharts, Google Maps API, Framer Motion, dnd-kit, Lucide React.
+**Formulários, dados e estado:** React Hook Form, Formik, Zod, Yup, Axios, Redux e TanStack Table.
+
+**Visualização e interação:** Nivo, Recharts, Google Maps API, Framer Motion, dnd-kit e Lucide React.
 
 ### Back-end, APIs e dados
 
@@ -54,7 +52,11 @@ Abaixo estão as tecnologias com as quais trabalho ou tenho familiaridade, inclu
 ![REST API](https://img.shields.io/badge/REST_API-3273DC?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Validação de dados · Regras de negócio · Integrações · Consultas e filtros · Paginação**
+**Desenvolvimento de APIs REST:** endpoints, regras de negócio, validação de dados, autenticação e autorização.
+
+**Persistência e consultas:** Doctrine ORM, modelagem relacional, consultas SQL, filtros, ordenação, paginação e integração com bancos de dados.
+
+**Integrações:** comunicação entre serviços e contratos de API.
 
 ### Engenharia, ferramentas e qualidade
 
@@ -65,7 +67,9 @@ Abaixo estão as tecnologias com as quais trabalho ou tenho familiaridade, inclu
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Git Worktrees · Pull Requests · CI/CD · Docker Compose · pnpm · Composer · ESLint · Prettier · Vitest · React Testing Library · PHPUnit · Documentação técnica**
+**Fluxo de desenvolvimento:** Git Worktrees, Pull Requests, revisão de código, CI/CD e Docker Compose.
+
+**Ferramentas e qualidade:** pnpm, Composer, ESLint, Prettier, Vitest, React Testing Library e PHPUnit.
 
 ### Inteligência artificial no desenvolvimento
 
